@@ -2,6 +2,7 @@
 <h3 align="center">TO BE OR NOT TO BE!</h3>
 
    # 💫 About Me:
+- 🔭 Studied Hornor Math Class **Chu Van An Specialized High School, Binh Dinh**
 
 - 🌱 Studying Ecommerce **University of Economics and Law, Viet Nam National University Ho Chi Minh City**
 
