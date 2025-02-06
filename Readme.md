@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋🫨, I'm Huyen</h1>
-<h3 align="center">A LIFE WELL LIVED </h3>
 
 # 🤌🏻🌟 About Me:
 - 🔭📎 Studied Hornor Math Class **Chu Van An Specialized High School, Binh Dinh**
